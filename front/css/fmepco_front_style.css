@@ -1,0 +1,102 @@
+.custom_options
+{
+	width: 100%;
+	clear: both;
+	margin-bottom: 20px;
+}
+
+.custom_options label
+{
+	font-weight: bold;
+	width: 100%;
+	clear: both;
+}
+.custom_options .required
+{
+	color: red;
+}
+.custom_options .price
+{
+	font-weight: normal;
+	font-size: 15px !important;
+}
+.cart
+{
+	width: 100%;
+}
+.fmeinput
+{
+	width: 100%;
+}
+.fmecustomgroup
+{
+	width: 100%;
+	margin-top: 15px;
+}
+.multi
+{
+	height: 150px !important;
+}
+
+
+.rowTitle
+{
+	text-align: center;
+	float: left;
+	width: 75px;
+	font-size: 14px;
+
+}
+
+
+.rowTitle
+{
+	text-align: left;
+	float: left;
+	width: auto;
+	font-size: 14px;
+
+}
+
+
+.price_total
+{
+	width: 100%;
+	clear: both;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	float: left;
+	font-size: 20px;
+}
+.tprice
+{
+	width: 100%;
+	float: left;
+	margin-bottom: 20px;
+}
+.leftprice
+{
+	color: #000;
+	font-weight: bold;
+	width: 200px;
+	float: left;
+}
+.rightprice
+{
+	width: auto;
+	float: left;
+	font-weight: bold;
+}
+.datepick, .timepick
+{
+	width: 60%;
+	float: left;
+}
+.ui-datepicker-trigger
+{
+	margin-left: 5px;
+	cursor: pointer;
+}
+.woocommerce_order_items_wrapper table.woocommerce_order_items table.display_meta tr th, .woocommerce_order_items_wrapper table.woocommerce_order_items table.meta tr th {
+    width: auto !important;
+}
